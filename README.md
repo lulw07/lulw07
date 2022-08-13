@@ -7,4 +7,4 @@ Hi, I'm Lukas and I'm doing an apprenticeship as a software engineer. I am 19 ye
 
 -----------
 
-All public repositories on my profile are fun projects or projects I have started.
+All public repositories on my profile are fun projects or projects I have started but never finished.
